@@ -36,16 +36,14 @@ I take on client work through **[Crisify](https://github.com/Crisify)**, my own 
 
 ## 🧰 Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,ts&theme=dark" alt="C#, .NET, React, Angular, TypeScript"><br>
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,postgres,redis,mongodb&theme=dark" alt="Kafka, RabbitMQ, PostgreSQL, Redis, MongoDB"><br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions&theme=dark" alt="AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,ts,kafka,rabbitmq,postgres,redis,mongodb,aws,azure,docker,kubernetes,terraform,githubactions&theme=dark&perline=16" alt="C#, .NET, React, Angular, TypeScript, Kafka, RabbitMQ, PostgreSQL, Redis, MongoDB, AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions">
 </p>
 
-**Distributed:** MassTransit · MediatR · SNS / SQS · EventBridge · CQRS · DDD · Clean Architecture<br>
-**Data:** PostgreSQL · SQL Server · DynamoDB · Redis · MongoDB · EF Core · Dapper<br>
-**Ops:** ArgoCD · Helm · DataDog · NewRelic · Azure DevOps<br>
-**Testing:** xUnit · NSubstitute · Shouldly · AutoFixture
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Stack — Core: C# 14, .NET 10, ASP.NET Core, EF Core, Dapper. Distributed: Kafka, RabbitMQ, MassTransit, MediatR, SNS/SQS, EventBridge, CQRS, DDD. Data: PostgreSQL, SQL Server, DynamoDB, Redis, MongoDB, Aurora. Cloud &amp; Ops: AWS, Azure, Docker, Kubernetes, Terraform, ArgoCD, Helm, DataDog. Frontend: React, Angular, TypeScript, RxJS, NgRx. Testing: xUnit, NSubstitute, Shouldly, AutoFixture, Testcontainers." src="assets/stack-light.svg" width="100%">
+</picture>
 
 ## 🐍 Contributions
 
