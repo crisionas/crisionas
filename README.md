@@ -47,14 +47,6 @@ I take on client work through **[Crisify](https://github.com/Crisify)**, my own 
 **Ops:** ArgoCD · Helm · DataDog · NewRelic · Azure DevOps<br>
 **Testing:** xUnit · NSubstitute · Shouldly · AutoFixture
 
-## 🏢 Experience
-
-| Role | Company | Sector |
-|---|---|---|
-| Senior .NET / React Fullstack Engineer | On the Beach | UK travel booking |
-| Senior .NET / Angular Fullstack Engineer | Asuro | German insurance / fintech |
-| .NET / Angular Fullstack Engineer | OpenLM | Enterprise license management |
-
 ## 🐍 Contributions
 
 <picture>
