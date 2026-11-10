@@ -6,7 +6,8 @@
 <p align="center">
   <a href="https://crisify.com"><img src="https://img.shields.io/badge/crisify.com-0a0b0d?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="crisify.com"></a>
   <a href="https://www.linkedin.com/in/cristianionas"><img src="https://img.shields.io/badge/LinkedIn-0a0b0d?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"></a>
-  <a href="mailto:cristian@crisify.com"><img src="https://img.shields.io/badge/cristian%40crisify.com-0a0b0d?style=for-the-badge&logo=maildotru&logoColor=58a6ff" alt="Email"></a></p>
+  <a href="mailto:cristian@crisify.com"><img src="https://img.shields.io/badge/cristian%40crisify.com-0a0b0d?style=for-the-badge&logo=maildotru&logoColor=58a6ff" alt="Email"></a>
+  <a href="tel:+40757971210"><img src="https://img.shields.io/badge/%2B40_757_971_210-0a0b0d?style=for-the-badge&logo=whatsapp&logoColor=58a6ff" alt="Phone: +40 757 971 210"></a></p>
 
 <p align="center">
   <a href="https://crisify.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Event-driven+microservices+in+.NET+10+%2F+C%23+14;Caching+layers%2C+message+pipelines%2C+resilience;The+migrations+nobody+wants+to+run;Open+to+senior+contract+roles+%E2%80%94+fully+remote" alt="Typing intro"></a>
